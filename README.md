@@ -1,7 +1,7 @@
 
 ### Bem vindo! eu sou o Arthur Adamcy 😀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-adamcy-de-souza-0aba16219/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-adamcy-6b427622b/)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcy11&show_icons=true&theme=apprentice)
 
