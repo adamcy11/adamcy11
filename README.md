@@ -21,7 +21,7 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-adamcy-de-souza-6b427622b/)
 - ✉️ arthuras1@hotmail.com
 - 📞 (11)93908-3713
-- ❌[Social network](https://x.com/Adamcyy11)
+
 
 ## 💼 Experiência
 - No Clube do Dev, atuei como responsável por processos de qualidade em testes de software, com foco em automação, testes de API e integração com a equipe de desenvolvimento (𝟬𝟱 𝗺𝗲𝘀𝗲𝘀).
