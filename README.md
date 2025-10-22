@@ -22,11 +22,11 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
 - ✉️ arthuras1@hotmail.com
 - 📞 (11)93908-3713
 
-
+ 
 ## 💼 Experiência
-- No Clube do Dev, atuei como responsável por processos de qualidade em testes de software, com foco em automação, testes de API e integração com a equipe de desenvolvimento (𝟬𝟱 𝗺𝗲𝘀𝗲𝘀).
-- Na MRS Editorial, atuei garantindo a qualidade e conformidade de documentos acadêmicos e institucionais, com foco em análise, validação e padronização de registros escolares (𝟭𝟬 𝗺𝗲𝘀𝗲𝘀).
-
+- No Clube do Dev, atuei como responsável por processos de qualidade em testes de software, com foco em automação, testes de API e integração com a equipe de desenvolvimento   (𝟬𝟱 𝗺𝗲𝘀𝗲𝘀).
+- Na MRS Editorial, atuei garantindo a qualidade e conformidade de documentos acadêmicos e institucionais, com foco em análise, validação e padronização de registros escolares   (𝟭𝟬 𝗺𝗲𝘀𝗲𝘀).
+- Na Semapi, estou atuando como Analista de QA, responsável pela execução e automação de testes de software, com foco em testes de API (Postman), testes exploratórios e documentação de testes funcionais. Também realizei o gerenciamento e reporte de defeitos no Trac, elaborei documentações técnicas de novas funcionalidades.   (06 meses - Atual).
 ## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
 - Graduação: Tec. Análise e Desenvolvimento de Sistemas (UAM) - Concluido em 2023.
 
