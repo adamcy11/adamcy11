@@ -12,10 +12,10 @@
 
 
 
-## 🧠 Sobre mim:
-Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atuei como estagiário na área de QA, onde adquiri experiência com testes manuais e automatizados, utilizando ferramentas como Cypress, Postman e Trello. Participei da elaboração de documentação técnica e definição de cenários de testes, sempre em colaboração com a equipe de desenvolvimento. Estou em constante evolução, buscando aprender mais e contribuir para entregas seguras e eficientes.
+##  About me:
+Hi! My name is Arthur, I’m 23 years old, and I hold a degree in Systems Analysis and Development. I worked as a QA intern and I’m currently a Junior QA at another company. Where I’ve gained experience in both manual and automated testing using tools such as Cypress, Postman, and Trello. I’ve contributed to creating technical documentation and defining test scenarios, always in collaboration with the development team. I’m continuously improving, eager to learn more, and committed to supporting safe and efficient deliveries.
 
-## 🌎 Encontre-me na Web
+## Find me online:
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-adamcy-de-souza-6b427622b/)
@@ -23,24 +23,53 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
 - 📞 (11)93908-3713
 
  
-## 💼 Experiência
-- No Clube do Dev, atuei como responsável por processos de qualidade em testes de software, com foco em automação, testes de API e integração com a equipe de desenvolvimento   (𝟬𝟱 𝗺𝗲𝘀𝗲𝘀).
-- Na MRS Editorial, atuei garantindo a qualidade e conformidade de documentos acadêmicos e institucionais, com foco em análise, validação e padronização de registros escolares   (𝟭𝟬 𝗺𝗲𝘀𝗲𝘀).
-- Na Semapi, estou atuando como Analista de QA, responsável pela execução e automação de testes de software, com foco em testes de API (Postman), testes exploratórios e documentação de testes funcionais. Também realizei o gerenciamento e reporte de defeitos no Trac, elaborei documentações técnicas de novas funcionalidades.   (06 meses - Atual).
-## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
-- Graduação: Tec. Análise e Desenvolvimento de Sistemas (UAM) - Concluido em 2023.
+##  Experience:
+**Clube do Dev** — Responsible for software testing quality processes, with a focus on test automation, API testing, and close collaboration with the development team. (05 months)
 
-## Conhecimentos
+**MRS Editorial** — Ensured the quality and compliance of academic and institutional documents, focusing on analysis, validation, and standardization of school records. (10 months)
+
+**Semapi** — Currently working as a Junior QA Analyst, responsible for executing software tests, with a focus on API testing (Postman), exploratory testing, and functional test documentation. Also managed and reported defects in Trac and produced technical documentation for new features. (Current role — 10 months in the company)
+
+
+
+## 🎓 Degree:
+Technologist in Systems Analysis and Development (Anhembi Morumbi University – UAM) — Completed in 2023.
+
+## Skills
 
 <details>
-  <summary>Metodologias Ágeis</summary>
+  <summary>Testing Tools</summary>
+
+  - Cypress
+  - Selenium
+  - Robotframework
+  - Postman
+</details>
+
+<details>
+  <summary>Version Control</summary>
+
+  - Basic knowledge of Git commands
+  - Github
+  - Gitlab
+</details>
+
+<details>
+  <summary>Databases</summary>
+
+  - Basic knowledge of SQL commands to generate test data
+  - SQL (MySQL or PostgreSQL)
+</details>
+
+<details>
+  <summary>Agile Methodologies</summary>
 
   - Kanban
   - Scrum
 </details>
 
 <details>
-  <summary>Ferramentas de Comunicação Online</summary>
+  <summary>Online Communication Tools</summary>
 
   - Microsoft Teams
   - Google Meet
@@ -48,40 +77,23 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
 </details>
 
 <details>
-  <summary>Ferramentas para Testes</summary>
-
-  - Cypress
-  - Robotframework
-  - Postman
-</details>
-
-
-<details>
-  <summary>Ferramentas para Gestão das Atividades de Teste</summary>
+  <summary>Test Activity Management Tools</summary>
 
   - Trello
   - Jira
 </details>
 
 <details>
-  <summary>Elaboração de Documentos da Qualidade</summary>
+  <summary>Quality Documentation</summary>
 
-  - Plano de Testes
-  - Cenários e Casos de Teste
-  - Relatório de Bugs
-  - Resultados dos Testes
+  - Test Plan
+  - Test Scenarios and Test Cases
+  - Bug Reports
+  - Test Results
 </details>
 
 <details>
-  <summary>Versionamento de Código</summary>
-
-  - Noções de comandos GIT 
-  - Github
-  - Gitlab
-</details>
-
-<details>
-  <summary>Linguagem de Programação</summary>
+  <summary>Programming Languages / Technologies</summary>
 
   - Javascript
   - Java
@@ -91,12 +103,7 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
   - Pyton
 </details>
 
-<details>
-  <summary>Banco de Dados</summary>
 
-  - Noções básicas nos comandos SQL para geração de massas de dados para testes
-  - SQL, MySQL ou PostgreSQL
-</details>
 <br>
 <br>
 <div align="center">
@@ -119,10 +126,6 @@ Olá! Me chamo Arthur, tenho 22 anos e sou formado em Análise e Desenvolvimento
   <img src="https://img.shields.io/badge/Gherkin-5C2D91?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-  
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcy11&show_icons=true&theme=apprentice)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamcy11&locale=pt-br&hide_title=false&layout=compact&theme=apprentice"  />
-
 
 
 </div>
