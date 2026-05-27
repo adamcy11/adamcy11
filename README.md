@@ -32,77 +32,8 @@ Hi! My name is Arthur, I’m 23 years old, and I hold a degree in Systems Analys
 
 
 
-## 🎓 Degree:
+##  Degree:
 Technologist in Systems Analysis and Development (Anhembi Morumbi University – UAM) — Completed in 2023.
-
-## Skills
-
-<details>
-  <summary>Testing Tools</summary>
-
-  - Cypress
-  - Selenium
-  - Robotframework
-  - Postman
-</details>
-
-<details>
-  <summary>Version Control</summary>
-
-  - Basic knowledge of Git commands
-  - Github
-  - Gitlab
-</details>
-
-<details>
-  <summary>Databases</summary>
-
-  - Basic knowledge of SQL commands to generate test data
-  - SQL (MySQL or PostgreSQL)
-</details>
-
-<details>
-  <summary>Agile Methodologies</summary>
-
-  - Kanban
-  - Scrum
-</details>
-
-<details>
-  <summary>Online Communication Tools</summary>
-
-  - Microsoft Teams
-  - Google Meet
-  - Zoom
-</details>
-
-<details>
-  <summary>Test Activity Management Tools</summary>
-
-  - Trello
-  - Jira
-</details>
-
-<details>
-  <summary>Quality Documentation</summary>
-
-  - Test Plan
-  - Test Scenarios and Test Cases
-  - Bug Reports
-  - Test Results
-</details>
-
-<details>
-  <summary>Programming Languages / Technologies</summary>
-
-  - Javascript
-  - Java
-  - Appium
-  - HTML
-  - CSS
-  - Pyton
-</details>
-
 
 <br>
 <br>
