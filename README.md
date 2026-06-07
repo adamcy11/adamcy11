@@ -22,7 +22,7 @@ Hi! My name is Arthur, I’m 23 years old, and I hold a degree in Systems Analys
 - ✉️ arthuras1@hotmail.com
 - 📞 (11)93908-3713
   
-  ##  Tecnologias:
+##  technologies:
   
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
